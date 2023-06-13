@@ -56,7 +56,7 @@
   requirement: |
    Пользователь должен иметь возможность фильтровать товары
   prerequisites:
-   -  Открыта главная страница сайта https://hexlet-products-store.vercel.app
+   Открыта главная страница сайта https://hexlet-products-store.vercel.app
   test-data: |
    фильтр товара = В наличии
   steps:
